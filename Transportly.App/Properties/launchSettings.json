@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Transportly.App": {
+      "commandName": "Project",
+      "commandLineArgs": "Manifest"
+    }
+  }
+}
